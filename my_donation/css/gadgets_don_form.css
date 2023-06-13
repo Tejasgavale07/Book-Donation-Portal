@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    background-color: #085999;
+    margin-top: 0;
+    padding: 20px;
+    color: white;
+}
+.register{
+    background-image: url(../img/gadgets-don-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+}
+.reg{
+    background-color: #085999;
+    border-radius: 10px;
+    border: 2px solid white;
+    padding: 15px;
+}
+.container{
+    margin-top: 20px;
+    /* background-color: #085999; */
+}
+body{
+    background-color: #73bbf6;
+}
